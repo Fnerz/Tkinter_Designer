@@ -9,11 +9,6 @@ import colorama
 
 colorama.init(autoreset=True)
 
-"""
- up comming features
-  -Draging 
-
-"""
 
 print(" strg + x         :   place Label")
 print(" strg + e         :   place Entry(Textbox)")
