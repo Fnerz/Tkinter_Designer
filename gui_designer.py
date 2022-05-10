@@ -1,7 +1,7 @@
 # gui designer by @Fnerz.-
 # Guthub: https://github.com/Fnerz
 
-# Yout open to use the code but would be nice to keep the first line and add your name if you want
+# Feel freeto use the code but it would be nice to keep the first line and add your name if you want
 
 import tkinter as tk
 from tkinter import filedialog
