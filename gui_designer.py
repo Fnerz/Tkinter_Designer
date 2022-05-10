@@ -13,7 +13,7 @@ colorama.init(autoreset=True)
 print(" strg + x         :   place Label")
 print(" strg + e         :   place Entry(Textbox)")
 print(" strg + b         :   place Button")
-print(" strg + p         :   place Progressbar")
+#print(" strg + p         :   place Progressbar")
 print(" strg + l         :   place listbox")
 print(" strg + s         :   Show code")
 
